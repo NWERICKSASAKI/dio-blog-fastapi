@@ -1,5 +1,5 @@
 [project]
-name = "dio-blog"
+name = "dio-blog-fastapi"
 version = "0.1.0"
 description = ""
 authors = [
