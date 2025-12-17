@@ -1,6 +1,7 @@
 [project]
 name = "dio-blog-fastapi"
 version = "0.1.0"
+package-mode = false
 description = ""
 authors = [
     {name = "Erick Sasaki",email = "erick_sasaki@hotmail.com"}
